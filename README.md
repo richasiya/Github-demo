@@ -1,4 +1,5 @@
 # Github-demo
 This is my first Git hub repository.
 <br>
-Author - Richa yaduvanshi
+Author - Richa yadav
+
